@@ -1,0 +1,13 @@
+{{
+  "Product" : "Laptop",
+   "Cost" : $1200,
+   "Units" : 15,
+
+   "Product" : "Mouse",
+   "Cost" :  $25,
+   "Units" : 50,
+
+    "Product" : "Keyboard",
+    "Cost" : $75,
+    "Units" : 30
+}

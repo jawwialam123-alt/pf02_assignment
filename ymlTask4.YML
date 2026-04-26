@@ -1,0 +1,15 @@
+Order: #1001
+Customer Name: Alice Johnson
+Customer Email: alice.johnson@example.com
+Date: 2024-06-15
+Items:
+  - Product Name: Laptop
+    Quantity: 2
+    Price: 1200.00
+  - Product Name: Mouse
+    Quantity: 1
+    Price: 25.00
+Total Amount: 2425.00
+Payment Method: Credit Card
+Status: shipped
+Shipping Address: 123 Main St, New York, NY 10001

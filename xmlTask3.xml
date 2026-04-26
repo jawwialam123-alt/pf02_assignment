@@ -1,0 +1,32 @@
+<post>
+    <Author>Alice</Author>
+    <Date>January-20-2024</Date>
+    <Time>3:45 PM</Time>
+    <Content>Just finished my Java project!</Content>
+    <Likes>
+        <count>15</count>
+        <likedBy>
+            <user>Bob</user>
+            <user>Charlie</user>
+            <user>Diana</user>
+        </likedBy>
+    </Likes>
+    <comments>
+        <comment>
+            <user>Bob</user>
+            <text>Great work!</text>
+        </comment>
+        <comment>
+            <user>Charlie</user>
+            <text>Congratulations!</text>
+        </comment>
+        <comment>
+            <user>Diana</user>
+            <text>Well done! Alice.</text>
+        </comment>
+    </comments>
+    <tags>
+        <tag>#programming</tag>
+        <tag>#java</tag>
+    </tags>
+</post>

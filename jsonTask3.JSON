@@ -1,0 +1,18 @@
+{
+    "post": {
+        "Author": "Alice",
+        "Date": "January-20-2024",
+        "Time": "3:45 PM",
+        "Content": "Just finished my Java project!",
+        "Likes": {
+            "count": 15,
+            "likedBy": ["Bob", "Charlie", "Diana"]
+        },
+        "comments": [
+            {"user": "Bob",     "text": "Great work!"},
+            {"user": "Charlie", "text": "Congratulations!"},
+            {"user": "Diana",   "text": "Well done! Alice."}
+        ],
+        "tags": ["#programming", "#java"]
+    }
+}

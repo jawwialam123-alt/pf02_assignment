@@ -1,0 +1,17 @@
+employees:
+  - name: John Smith
+    department: IT
+    salary: 75000
+    startDate: 2020-01-15
+    skills:
+      - Java
+      - Python
+      - SQL
+
+  - name: Sarah Johnson
+    department: HR
+    salary: 65000
+    startDate: 2019-03-01
+    skills:
+      - Recruitment
+      - Training
